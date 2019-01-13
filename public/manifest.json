@@ -1,0 +1,21 @@
+{
+  "short_name": "the-movie-list",
+  "name": "The Movie List",
+  "icons": [
+    {
+      "src": "icon-s.png",
+      "type": "image/png",
+      "sizes": "48x48"
+    },
+    {
+      "src": "icon-xl.png",
+      "type": "image/png",
+      "sizes": "144x144"
+    }
+  ],
+  "background_color": "#116193",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#116193",
+  "start_url": "index.html"
+}
