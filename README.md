@@ -14,7 +14,7 @@ git clone https://github.com/jkdrangel/The-Movie.git
 yarn
 ```
 
-### Renomeie o arquivo keys.sample.js para keys.sample e adicione a chave da API do The Movie DB
+### Renomeie o arquivo keys.sample.js para keys.js e adicione a chave da API do The Movie DB
 
 ### Rode o servidor
 ```
